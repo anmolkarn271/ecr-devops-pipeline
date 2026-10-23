@@ -1,0 +1,13 @@
+{
+"name": "ecr-devops-pipeline",
+"version": "1.0.0",
+"description": "Node.js application for an AWS ECR and DevOps CI/CD project",
+"main": "server.js",
+"scripts": {
+"start": "node server.js",
+"test": "node --test"
+},
+"engines": {
+"node": ">=22"
+}
+}
